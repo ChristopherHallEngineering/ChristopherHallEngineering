@@ -20,11 +20,12 @@ My work connects physical science, product strategy, engineering execution, and 
 - M.S., Information Technology Management; MBA; B.S., Chemical Engineering
 - PMP | Six Sigma Green Belt
 
-## Selected work
+## Selected engineering work
 
-This profile is being developed to showcase **original, non-confidential** technical demonstrations and engineering management resources, including industrial systems modeling, product development frameworks, and AI-assisted operational workflows.
+- [**Industrial Systems Modeling**](https://github.com/ChristopherHallEngineering/industrial-systems-modeling) — synthetic fan-curve, filtration CADR, pressure-drop, and service-life comparison; automated tests
+- [**Engineering Validation Analytics**](https://github.com/ChristopherHallEngineering/engineering-validation-analytics) — synthetic design-verification measurements, acceptance checks, confidence-interval demonstration, and auditable reports
 
-*Projects will be linked here as working public repositories are published. Examples will use synthetic or publicly available data, not employer-confidential information.*
+These are original educational demonstrations using synthetic data, **not** employer performance claims, confidential specifications, or validated product designs.
 
 ## Connect
 
